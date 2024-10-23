@@ -10,7 +10,7 @@
 
 ## Description
 
-This Module 1 Challenge was designed to help me sharpen my **optimization skill** and **refactoring code** using **Scout Rule**
+In this project, I refactored existing HTML and CSS code to improve web accessibility, following industry best practices. The goal was to enhance user experience for individuals with disabilities, optimize the website for search engines, and meet business and legal standards for accessibility. Key improvements include semantic HTML elements, ARIA attributes, and more consistent styling.
 
 ## Task 
 To successfully solve the challenge, these tasks below were taken into account:
@@ -19,4 +19,18 @@ To successfully solve the challenge, these tasks below were taken into account:
 - Cleaning redundant CSS stylings.
 - Optimizing html file structurally.
 - Added title for the webpage.
+
+## Deployment
+
+The final webpage for this can be accessed here: https://leontran44.github.io/horiseon-marketing-code-refactor/
+
+Users can access the HTML source code through the repo or within a Chromium/Firefox browser by pressing `F12`, `CTRL+SHIFT+I` (Windows) or `CMD+SHIFT+I` (MacOS). 
+
+## Sample
+
+Samples of final webpage can be found here:
+![A sample screenshot of the refactored webpage]
+![Another sample screenshot of the refactored webpage]
+![Another sample screenshot of the refactored webpage]
+
 
